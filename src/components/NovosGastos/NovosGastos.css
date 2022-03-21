@@ -2,6 +2,7 @@
   margin-top: 80px;
 }
 .bt-novo {
+  place-self: center;
   display: block;
   all: unset;
   background-color: #6ebf8b;

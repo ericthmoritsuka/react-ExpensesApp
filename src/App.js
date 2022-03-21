@@ -4,10 +4,10 @@ import NovosGastos from "./components/NovosGastos/NovosGastos";
 import React, { useState } from "react";
 
 const listaInicial = [
-  {id: 'g1', titulo: "Estácio", valor: 190.64, dia: new Date(2022, 1, 21) },
-  {id: 'g2', titulo: "Hapvida", valor: 249.32, dia: new Date(2022, 1, 18) },
-  {id: 'g3', titulo: "Nubank", valor: 203.12, dia: new Date(2022, 1, 13) },
-  {id: 'g4', titulo: "Supermercado", valor: 201.33, dia: new Date(2022, 2, 2) },
+  {id: 'g1', titulo: "Exemplo1", valor: 190.64, dia: new Date(2022, 1, 21) },
+  {id: 'g2', titulo: "Exemplo2", valor: 249.32, dia: new Date(2022, 1, 18) },
+  {id: 'g3', titulo: "Exemplo3", valor: 203.12, dia: new Date(2022, 1, 13) },
+  {id: 'g4', titulo: "Exemplo4", valor: 201.33, dia: new Date(2022, 2, 2) },
 ];
 
 function App() {

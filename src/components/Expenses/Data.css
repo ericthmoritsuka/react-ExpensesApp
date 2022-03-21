@@ -1,0 +1,20 @@
+.caixa-data {
+  display: grid;
+  background-color: #232323;
+  padding: 20px 10px;
+  border-radius: 5px;
+  border: #6EBF8B solid 5px;
+}
+
+.mes, .dia, .ano {
+  font-size: 1.5rem;
+  color: white;
+}
+
+.mes {
+  width: 9ch;
+  padding: 5px;
+  border-radius: 5px;
+  font-weight: bold;
+  text-transform: uppercase;
+}

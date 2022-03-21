@@ -1,0 +1,14 @@
+.bg-botao-novo{
+  margin-top: 80px;
+}
+.bt-novo {
+  display: block;
+  all: unset;
+  background-color: #6ebf8b;
+  color: #050b07;
+  font-size: 1.5rem;
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-transform: uppercase;
+  font-weight: bold;
+}

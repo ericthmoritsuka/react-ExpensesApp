@@ -1,0 +1,19 @@
+.divisoria {
+  background-color: #040402;
+  display: grid;
+  gap: 20px;
+  padding-top: 20px;
+  justify-content: center;
+}
+
+.mensagem-vazio {
+  display: grid;
+  font-size: 2rem;
+  background-color: #232323;
+  color: white;
+  width: 60rem;
+  text-align: center;
+  border-radius: 5px;
+  padding: 20px 0px;
+  margin: 0px;
+}

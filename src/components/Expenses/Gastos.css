@@ -1,0 +1,36 @@
+.gasto-bloco {
+  display: grid;
+  border-radius: 5px;
+  gap: 20px;
+  color: white;
+  text-align: center;
+  grid-template-columns: auto 1fr;
+  width: 60rem;
+}
+
+.descricao {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  align-items: center;
+  background-color: #232323;
+  border-radius: 5px;
+}
+
+.titulo {
+  font-size: 3rem;
+  grid-column: 1;
+  text-align: left;
+  padding-left: 60px;
+}
+
+.valor {
+  width: 10ch;
+  color: #050b07;
+  grid-column: 2;
+  font-size: 2rem;
+  font-weight: bold;
+  padding: 10px 60px;
+  background-color: #6EBF8B;
+  border-radius: 5px 0px 0px 5px;
+}
+

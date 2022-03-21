@@ -4,7 +4,6 @@
 .bt-novo {
   display: flex;
   justify-content: center;
-  display: block;
   all: unset;
   background-color: #6ebf8b;
   color: #050b07;

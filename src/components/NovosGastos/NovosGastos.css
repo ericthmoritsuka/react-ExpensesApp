@@ -1,9 +1,9 @@
 .bg-botao-novo{
   margin-top: 80px;
-}
-.bt-novo {
   display: flex;
   justify-content: center;
+}
+.bt-novo {
   all: unset;
   background-color: #6ebf8b;
   color: #050b07;

@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-expensesApp/static/css/main.75e44341.css",
+    "main.css": "/react-expensesApp/static/css/main.61575441.css",
     "main.js": "/react-expensesApp/static/js/main.0e041ec3.js",
     "static/js/787.8575fb50.chunk.js": "/react-expensesApp/static/js/787.8575fb50.chunk.js",
     "index.html": "/react-expensesApp/index.html",
-    "main.75e44341.css.map": "/react-expensesApp/static/css/main.75e44341.css.map",
+    "main.61575441.css.map": "/react-expensesApp/static/css/main.61575441.css.map",
     "main.0e041ec3.js.map": "/react-expensesApp/static/js/main.0e041ec3.js.map",
     "787.8575fb50.chunk.js.map": "/react-expensesApp/static/js/787.8575fb50.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.75e44341.css",
+    "static/css/main.61575441.css",
     "static/js/main.0e041ec3.js"
   ]
 }
